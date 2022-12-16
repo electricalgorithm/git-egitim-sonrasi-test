@@ -1,5 +1,5 @@
 # git-egitim-sonrasi-test
-Bu repo IEEE Marmara bünyesinde vermiş olduğum Git eğitiminin ardından kullanıcıların anlama seviyelerini test edebilmemiz için açılmıştır.
+Bu repo vermiş olduğumuz Git eğitiminin ardından kullanıcıların anlama seviyelerini test edebilmemiz için açılmıştır.
 
 Bu repodaki "anladim.txt" dosyasının içine GitHub kullanıcı adınızı yazıp (ayrı bir branch içinde tabi ki:) Pull Request göndermeniz gerekmektedir.
 
